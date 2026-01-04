@@ -52,3 +52,15 @@ Delivered a cloud-based, production-ready Power BI dashboard enabling stakeholde
 - SQL & Cloud Data Warehousing
 - Power BI & DAX
 - Business Insight & Storytelling
+
+## Report Snapshot (Power BI Desktop)
+
+### Housing Market Overview
+![Housing Market Overview](images/House_Market_Report.png)
+
+### Sales Performance Dashboard
+![Sales Performance](images/Sales_Performance_Report.png)
+
+### House Type Analysis
+![House Type Analysis](images/House_Type_Analysis_Report.png)
+
