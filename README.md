@@ -1,8 +1,6 @@
 # Housing Market Analysis
 Google BigQuery | Power BI | SQL | DAX
 
-## Dashboard Link : https://app.powerbi.com/links/cIgQ53HJsL?ctid=72f2a0ad-62ba-47e8-8d96-4acc506af6d0&pbi_source=linkShare
-
 ## Project Summary
 
 End-to-end housing market analysis using Google BigQuery as a cloud data warehouse and Power BI for analytics and visualization.  
